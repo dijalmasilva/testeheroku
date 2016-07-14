@@ -16,6 +16,7 @@
         <script src="/assets/js/jquery.js" type="text/javascript"></script>
         <script src="/assets/js/bootstrap.js" type="text/javascript"></script>    
         <script src="/assets/js/apostaController.js" type="text/javascript"></script>
+        <link href="/imagens/logo.png" type="image/png" rel="icon"/>
         <meta name="viewport" content="width=device-width, minimum=scale= 1.0, initial=scale=1, user-scalable=yes"/>
     </head>
     <body id="indexBody"> 
